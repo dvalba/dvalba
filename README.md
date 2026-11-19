@@ -1,6 +1,6 @@
 ### Hi, I'm David Alba 👋
 
-#### A Full-Stack Developer by day ☼ and an AI Tinkerer by night ☾
+#### B.Sc. in Computer Science. Full-stack & AI Engineer.
 
 Building end-to-end web platforms with **AI in real workflows**;<br>
 Based in **Havana, Cuba** — open to remote work, worldwide;<br>
