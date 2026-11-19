@@ -9,4 +9,4 @@ Based in **Havana, Cuba** — open to remote work, worldwide;<br>
 - 🚀 Currently working on: [innov-ia](https://github.com/dvalba/innov-ia), [nodoo-trace](https://github.com/dvalba/nodoo-trace)
 - 💬 `ping` me about **job opportunities**, **freelance projects**, **collaborations**, **angular**, **nestjs**, **python**, **ai/llms**
 
-[💬 t.me/dvalbaa](https://t.me/dvalbaa)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/dvalbaa)
